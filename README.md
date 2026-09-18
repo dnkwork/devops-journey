@@ -1,1 +1,1 @@
-# Мій шлях у DevOps
+# DevOps Journey
